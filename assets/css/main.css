@@ -1,5 +1,5 @@
 /**
-* Template Name: switchcase
+* Template Name: talentpen
 * Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
 * Updated: Aug 07 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
@@ -242,7 +242,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 24px;
+  max-height: 35px;
   margin-right: 8px;
 }
 
@@ -272,7 +272,7 @@ h6 {
 
 @media (min-width: 1200px) {
   .header .logo img {
-    max-height: 44px;
+    max-height: 50px;
   }
 }
 

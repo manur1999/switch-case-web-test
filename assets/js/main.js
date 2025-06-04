@@ -1,5 +1,5 @@
 /**
-* Template Name: switchcase
+* Template Name: talentpen
 * Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
 * Updated: Aug 07 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
